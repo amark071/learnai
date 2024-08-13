@@ -74,9 +74,8 @@ navs:
     href: /links/
     label: 链接
     mobile-hidden: true
-
   -
-    href: /about/
+    href: https://amark071.github.io/profile/
     label: 关于
 
 # ---------------- #
