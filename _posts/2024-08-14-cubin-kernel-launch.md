@@ -20,7 +20,7 @@ mindmap2: false
 
 - .cubin文件与.ptx文件保存在~/.triton/cache下，调用方式如下：
 
-```C++
+```c
 #include <iostream>
 #include <cuda.h>
 int main() {
@@ -94,7 +94,7 @@ int main() {
 
 - 附注：Curesults检查模板
 
-```C++
+```c
 #define checkCudaErrors(err) {\
     if(err != CUDA_SUCCESS) {\
     const char *errorName;\
@@ -207,7 +207,7 @@ python link.py ./*.h -o kernel_name
 
 - 调用程序：
 
-```C++
+```c
 #include <iostream>
 #include <cuda.h>
 extern "C" {
