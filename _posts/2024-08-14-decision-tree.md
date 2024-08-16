@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 机器学习|决策树
+title: 机器学习| 决策树
 categories: [Machine Learning]
 description: 决策树
 keywords: 决策树

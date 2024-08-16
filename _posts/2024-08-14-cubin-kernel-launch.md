@@ -1,6 +1,6 @@
 ---
 layout: post
-title: .cubin文件调用研究
+title: Triton| .cubin文件调用研究
 categories: [Triton]
 description: .cubin文件的两种调用方式，适用于triton和cuda分别生成的.cubin文件
 keywords: Triton, CUDA
